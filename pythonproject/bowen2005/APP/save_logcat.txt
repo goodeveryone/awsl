@@ -1,0 +1,121 @@
+2020-10-16 17:33:54,596 Yao_qian_car_logcat.py[line:23] INFO 
+2020-10-16 17:33:54,596 Yao_qian_car_logcat.py[line:24] INFO App started successfully
+2020-10-16 17:33:55,391 Yao_qian_car_logcat.py[line:32] INFO Click agreement
+2020-10-16 17:33:56,977 Yao_qian_car_logcat.py[line:36] INFO Click mine
+2020-10-16 17:33:58,079 Yao_qian_car_logcat.py[line:40] INFO Click go login
+2020-10-16 17:34:00,573 Yao_qian_car_logcat.py[line:44] INFO Send phone number
+2020-10-16 17:34:01,850 Yao_qian_car_logcat.py[line:48] INFO Send password
+2020-10-16 17:34:02,367 Yao_qian_car_logcat.py[line:52] INFO Click login
+2020-10-16 17:34:03,426 Yao_qian_car_logcat.py[line:58] INFO Click advertisement
+2020-10-16 17:34:05,334 Yao_qian_car_logcat.py[line:64] INFO Click homepage
+2020-10-16 17:34:06,977 Yao_qian_car_logcat.py[line:68] INFO Click introdution to the platform
+2020-10-16 17:34:10,305 Yao_qian_car_logcat.py[line:76] INFO Slide 1
+2020-10-16 17:34:12,538 Yao_qian_car_logcat.py[line:76] INFO Slide 2
+2020-10-16 17:34:14,761 Yao_qian_car_logcat.py[line:76] INFO Slide 3
+2020-10-16 17:34:14,761 Yao_qian_car_logcat.py[line:77] INFO The progrom runs successfuly
+2020-10-16 17:37:23,842 QQ_automation.py[line:19] INFO 
+2020-10-16 17:37:23,843 QQ_automation.py[line:20] INFO App started successfully
+2020-10-16 17:37:24,678 QQ_automation.py[line:28] INFO Click agreement
+2020-10-16 17:37:42,245 QQ_automation.py[line:32] INFO Click login
+2020-10-16 17:37:43,380 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-16 17:37:44,488 QQ_automation.py[line:40] INFO Send password
+2020-10-16 17:37:45,015 QQ_automation.py[line:44] INFO Click login
+2020-10-16 17:37:45,730 QQ_automation.py[line:48] INFO Click resufe
+2020-10-16 17:37:49,667 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-16 17:37:53,512 QQ_automation.py[line:60] INFO Click First friend
+2020-10-16 17:38:00,747 QQ_automation.py[line:67] INFO Click Send_news
+2020-10-16 17:38:05,366 QQ_automation.py[line:74] INFO Send news
+2020-10-16 17:38:06,265 QQ_automation.py[line:78] INFO Click send
+2020-10-16 17:38:06,266 QQ_automation.py[line:79] INFO The progrom runs successfuly
+2020-10-16 17:41:04,108 QQ_automation.py[line:19] INFO 
+2020-10-16 17:41:04,108 QQ_automation.py[line:20] INFO App started successfully
+2020-10-16 17:41:04,754 QQ_automation.py[line:28] INFO Click agreement
+2020-10-16 17:41:29,463 QQ_automation.py[line:32] INFO Click login
+2020-10-16 17:41:30,611 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-16 17:41:31,743 QQ_automation.py[line:40] INFO Send password
+2020-10-16 17:41:32,346 QQ_automation.py[line:44] INFO Click login
+2020-10-16 17:41:33,295 QQ_automation.py[line:48] INFO Click resufe
+2020-10-16 17:41:38,789 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-16 17:41:42,754 QQ_automation.py[line:60] INFO Click First friend
+2020-10-16 17:43:07,381 QQ_automation.py[line:19] INFO 
+2020-10-16 17:43:07,382 QQ_automation.py[line:20] INFO App started successfully
+2020-10-16 17:43:08,194 QQ_automation.py[line:28] INFO Click agreement
+2020-10-16 17:43:25,945 QQ_automation.py[line:32] INFO Click login
+2020-10-16 17:43:27,081 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-16 17:43:28,190 QQ_automation.py[line:40] INFO Send password
+2020-10-16 17:43:28,711 QQ_automation.py[line:44] INFO Click login
+2020-10-16 17:43:29,400 QQ_automation.py[line:48] INFO Click resufe
+2020-10-16 17:43:33,240 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-16 17:43:37,092 QQ_automation.py[line:60] INFO Click First friend
+2020-10-16 17:43:40,234 QQ_automation.py[line:67] INFO Click Send_news
+2020-10-16 17:43:44,814 QQ_automation.py[line:74] INFO Send news
+2020-10-16 17:43:46,290 QQ_automation.py[line:78] INFO Click send
+2020-10-16 17:43:46,291 QQ_automation.py[line:79] INFO The progrom runs successfuly
+2020-10-16 17:44:52,290 QQ_automation.py[line:19] INFO 
+2020-10-16 17:44:52,291 QQ_automation.py[line:20] INFO App started successfully
+2020-10-16 17:44:53,144 QQ_automation.py[line:28] INFO Click agreement
+2020-10-16 17:45:15,132 QQ_automation.py[line:32] INFO Click login
+2020-10-16 17:45:16,308 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-16 17:45:17,423 QQ_automation.py[line:40] INFO Send password
+2020-10-16 17:45:18,080 QQ_automation.py[line:44] INFO Click login
+2020-10-16 17:45:19,097 QQ_automation.py[line:48] INFO Click resufe
+2020-10-16 17:45:23,781 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-16 17:45:27,632 QQ_automation.py[line:60] INFO Click First friend
+2020-10-16 17:45:32,408 QQ_automation.py[line:67] INFO Click Send_news
+2020-10-16 17:45:36,797 QQ_automation.py[line:74] INFO Send news
+2020-10-16 17:45:37,725 QQ_automation.py[line:78] INFO Click send
+2020-10-16 17:45:37,725 QQ_automation.py[line:79] INFO The progrom runs successfuly
+2020-10-17 09:26:36,961 QQ_automation.py[line:20] INFO 
+2020-10-17 09:26:36,963 QQ_automation.py[line:21] INFO App started successfully
+2020-10-17 09:26:37,743 QQ_automation.py[line:31] INFO Click agreement
+2020-10-17 09:26:56,176 QQ_automation.py[line:35] INFO Click login
+2020-10-17 09:26:57,312 QQ_automation.py[line:39] INFO Send QQ account
+2020-10-17 09:26:58,434 QQ_automation.py[line:43] INFO Send password
+2020-10-17 09:26:58,964 QQ_automation.py[line:47] INFO Click login
+2020-10-17 09:26:59,646 QQ_automation.py[line:51] INFO Click resufe
+2020-10-17 09:27:03,484 QQ_automation.py[line:57] INFO Click person to contact
+2020-10-17 09:27:07,349 QQ_automation.py[line:63] INFO Click First friend
+2020-10-17 09:27:10,630 QQ_automation.py[line:70] INFO Click Send_news
+2020-10-17 09:27:17,289 QQ_automation.py[line:77] INFO Send news
+2020-10-17 09:27:18,018 QQ_automation.py[line:81] INFO Click send
+2020-10-17 09:27:18,018 QQ_automation.py[line:82] INFO The progrom runs successfuly
+2020-10-26 09:41:41,059 QQ_automation.py[line:21] INFO 
+2020-10-26 09:41:41,059 QQ_automation.py[line:22] INFO App started successfully
+2020-10-26 09:41:41,965 QQ_automation.py[line:32] INFO Click agreement
+2020-10-26 09:41:50,439 QQ_automation.py[line:36] INFO Click login
+2020-10-26 09:41:51,720 QQ_automation.py[line:40] INFO Send QQ account
+2020-10-26 09:41:52,407 QQ_automation.py[line:44] INFO Send password
+2020-10-26 09:41:53,100 QQ_automation.py[line:48] INFO Click login
+2020-10-26 09:41:53,818 QQ_automation.py[line:52] INFO Click resufe
+2020-10-26 09:41:57,662 QQ_automation.py[line:58] INFO Click person to contact
+2020-10-26 09:42:01,551 QQ_automation.py[line:64] INFO Click First friend
+2020-10-26 09:48:14,981 QQ_automation.py[line:21] INFO 
+2020-10-26 09:48:14,981 QQ_automation.py[line:22] INFO App started successfully
+2020-10-26 09:48:15,903 QQ_automation.py[line:32] INFO Click agreement
+2020-10-26 09:48:24,588 QQ_automation.py[line:36] INFO Click login
+2020-10-26 09:48:25,745 QQ_automation.py[line:40] INFO Send QQ account
+2020-10-26 09:48:26,937 QQ_automation.py[line:44] INFO Send password
+2020-10-26 09:48:27,624 QQ_automation.py[line:48] INFO Click login
+2020-10-26 09:48:28,624 QQ_automation.py[line:52] INFO Click resufe
+2020-10-26 09:48:32,520 QQ_automation.py[line:58] INFO Click person to contact
+2020-10-26 09:48:36,363 QQ_automation.py[line:64] INFO Click First friend
+2020-10-26 10:27:00,138 QQ_automation.py[line:21] INFO 
+2020-10-26 10:27:00,139 QQ_automation.py[line:22] INFO App started successfully
+2020-10-26 10:27:01,032 QQ_automation.py[line:32] INFO Click agreement
+2020-10-26 10:27:09,604 QQ_automation.py[line:36] INFO Click login
+2020-10-26 10:27:10,871 QQ_automation.py[line:40] INFO Send QQ account
+2020-10-26 10:27:12,003 QQ_automation.py[line:44] INFO Send password
+2020-10-26 10:27:12,691 QQ_automation.py[line:48] INFO Click login
+2020-10-26 10:27:13,435 QQ_automation.py[line:52] INFO Click resufe
+2020-10-26 10:27:17,309 QQ_automation.py[line:58] INFO Click person to contact
+2020-10-26 10:27:21,974 QQ_automation.py[line:64] INFO Click First friend
+2020-10-26 10:28:54,843 QQ_automation.py[line:21] INFO 
+2020-10-26 10:28:54,843 QQ_automation.py[line:22] INFO App started successfully
+2020-10-26 10:28:55,770 QQ_automation.py[line:32] INFO Click agreement
+2020-10-26 10:29:04,311 QQ_automation.py[line:36] INFO Click login
+2020-10-26 10:29:05,441 QQ_automation.py[line:40] INFO Send QQ account
+2020-10-26 10:29:06,731 QQ_automation.py[line:44] INFO Send password
+2020-10-26 10:29:07,394 QQ_automation.py[line:48] INFO Click login
+2020-10-26 10:29:08,124 QQ_automation.py[line:52] INFO Click resufe
+2020-10-26 10:29:12,150 QQ_automation.py[line:58] INFO Click person to contact
+2020-10-26 10:29:15,981 QQ_automation.py[line:64] INFO Click First friend

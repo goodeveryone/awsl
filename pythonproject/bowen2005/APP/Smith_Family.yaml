@@ -1,0 +1,121 @@
+# ——————————yaml数据类型
+# 纯量：单个，不可再分的值
+# 数组（列表）：和python中的list特点一样，也成为称为列表或序列
+# 对象（字典）：
+
+
+#name: Smith
+#age: 37
+#wife:
+#  name: Jane
+#  age: 25
+#childrens:
+#  - name: Jimmy
+#    age: 15
+#  - name: Jenny
+#    age: 12
+
+#{
+#{"name":"Smith","age":37},
+#{"wife":{"name":"Jane","age":25},
+#{"childrens":[{"name":"Jimmy","age":15},{"name":"Jenny","age":12}]}
+#}
+
+#  Capability
+platformName: Android
+platformVersion: 7.1.2
+deviceName: 127.0.0.1:62001
+appPackage: com.tal.kaoyan
+appActivity: com.tencent.mobileqq.activity.SplashActivity
+noReset: Flase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

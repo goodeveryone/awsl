@@ -1,0 +1,305 @@
+practise.py
+practise.py
+practise.py
+practise.py
+practise.py
+2020-10-14 16:09:04,591 practise.py[line:18] INFO aaaaaa
+2020-10-14 16:09:04,592 practise.py[line:19] WARNING bbbbbb
+2020-10-14 16:09:04,592 practise.py[line:20] ERROR cccccc
+2020-10-14 16:09:04,592 practise.py[line:21] CRITICAL dddddd
+2020-10-14 16:49:19,933 Yao_qian_car_2.py[line:21] INFO App started successfully
+2020-10-14 16:49:20,723 Yao_qian_car_2.py[line:29] INFO Click agreement
+2020-10-14 16:49:22,290 Yao_qian_car_2.py[line:33] INFO Click mine
+2020-10-14 16:49:23,522 Yao_qian_car_2.py[line:37] INFO Click go login
+2020-10-14 16:49:25,874 Yao_qian_car_2.py[line:41] INFO Send phone number
+2020-10-14 16:49:27,083 Yao_qian_car_2.py[line:45] INFO Send passwd
+2020-10-14 16:49:27,602 Yao_qian_car_2.py[line:49] INFO Click login
+2020-10-14 16:49:29,129 Yao_qian_car_2.py[line:55] INFO Click advertisement
+2020-10-14 16:49:31,018 Yao_qian_car_2.py[line:61] INFO Click homepage
+2020-10-14 16:49:32,432 Yao_qian_car_2.py[line:65] INFO Click introdution to the platform
+2020-10-14 16:49:35,666 Yao_qian_car_2.py[line:73] INFO Slide 0
+2020-10-14 16:49:37,901 Yao_qian_car_2.py[line:73] INFO Slide 1
+2020-10-14 16:49:40,120 Yao_qian_car_2.py[line:73] INFO Slide 2
+2020-10-14 16:49:40,120 Yao_qian_car_2.py[line:74] INFO The progrom runs successfuly
+2020-10-14 16:49:40,120 Yao_qian_car_2.py[line:79] INFO The progrom runs successfuly
+2020-10-14 16:53:34,989 Yao_qian_car_2.py[line:23] INFO App started successfully
+2020-10-14 16:53:35,764 Yao_qian_car_2.py[line:31] INFO Click agreement
+2020-10-14 16:53:37,250 Yao_qian_car_2.py[line:35] INFO Click mine
+2020-10-14 16:53:38,393 Yao_qian_car_2.py[line:39] INFO Click go login
+2020-10-14 16:53:40,139 Yao_qian_car_2.py[line:43] INFO Send phone number
+2020-10-14 16:53:41,464 Yao_qian_car_2.py[line:47] INFO Send passwd
+2020-10-14 16:53:42,002 Yao_qian_car_2.py[line:51] INFO Click login
+2020-10-14 16:53:43,306 Yao_qian_car_2.py[line:57] INFO Click advertisement
+2020-10-14 16:53:45,214 Yao_qian_car_2.py[line:63] INFO Click homepage
+2020-10-14 16:53:46,579 Yao_qian_car_2.py[line:67] INFO Click introdution to the platform
+2020-10-14 16:53:49,920 Yao_qian_car_2.py[line:75] INFO Slide 1
+2020-10-14 16:53:52,134 Yao_qian_car_2.py[line:75] INFO Slide 2
+2020-10-14 16:53:54,516 Yao_qian_car_2.py[line:75] INFO Slide 3
+2020-10-14 16:53:54,516 Yao_qian_car_2.py[line:76] INFO The progrom runs successfuly
+2020-10-14 17:01:12,542 Yao_qian_car_2.py[line:23] INFO App started successfully
+2020-10-14 17:01:13,392 Yao_qian_car_2.py[line:31] INFO Click agreement
+2020-10-14 17:01:14,985 Yao_qian_car_2.py[line:35] INFO Click mine
+2020-10-14 17:01:16,183 Yao_qian_car_2.py[line:39] INFO Click go login
+2020-10-14 17:01:18,467 Yao_qian_car_2.py[line:43] INFO Send phone number
+2020-10-14 17:01:19,666 Yao_qian_car_2.py[line:47] INFO Send passwd
+2020-10-14 17:01:20,245 Yao_qian_car_2.py[line:51] INFO Click login
+2020-10-14 17:01:22,211 Yao_qian_car_2.py[line:57] INFO Click advertisement
+2020-10-14 17:01:24,103 Yao_qian_car_2.py[line:63] INFO Click homepage
+2020-10-14 17:01:25,495 Yao_qian_car_2.py[line:67] INFO Click introdution to the platform
+2020-10-14 17:01:28,771 Yao_qian_car_2.py[line:75] INFO Slide 1
+2020-10-14 17:01:31,075 Yao_qian_car_2.py[line:75] INFO Slide 2
+2020-10-14 17:01:33,304 Yao_qian_car_2.py[line:75] INFO Slide 3
+2020-10-14 17:01:33,304 Yao_qian_car_2.py[line:76] INFO The progrom runs successfuly
+2020-10-14 17:42:14,536 Yao_qian_car_2.py[line:23] INFO 
+2020-10-14 17:42:14,537 Yao_qian_car_2.py[line:24] INFO App started successfully
+2020-10-14 17:42:15,301 Yao_qian_car_2.py[line:32] INFO Click agreement
+2020-10-14 17:42:16,407 Yao_qian_car_2.py[line:36] INFO Click mine
+2020-10-14 17:42:17,567 Yao_qian_car_2.py[line:40] INFO Click go login
+2020-10-14 17:42:19,411 Yao_qian_car_2.py[line:44] INFO Send phone number
+2020-10-14 17:42:20,904 Yao_qian_car_2.py[line:48] INFO Send passwd
+2020-10-14 17:42:21,442 Yao_qian_car_2.py[line:52] INFO Click login
+2020-10-14 17:42:22,901 Yao_qian_car_2.py[line:58] INFO Click advertisement
+2020-10-14 17:42:24,993 Yao_qian_car_2.py[line:64] INFO Click homepage
+2020-10-14 17:42:26,382 Yao_qian_car_2.py[line:68] INFO Click introdution to the platform
+2020-10-14 17:42:29,653 Yao_qian_car_2.py[line:76] INFO Slide 1
+2020-10-14 17:42:31,949 Yao_qian_car_2.py[line:76] INFO Slide 2
+2020-10-14 17:42:34,276 Yao_qian_car_2.py[line:76] INFO Slide 3
+2020-10-14 17:42:34,276 Yao_qian_car_2.py[line:77] INFO The progrom runs successfuly
+2020-10-14 17:54:05,096 QQ自动化测试.py[line:19] INFO 
+2020-10-14 17:54:05,098 QQ自动化测试.py[line:20] INFO App started successfully
+2020-10-14 17:54:05,907 QQ自动化测试.py[line:28] INFO Click agreement
+2020-10-14 17:54:23,597 QQ自动化测试.py[line:32] INFO Click login
+2020-10-14 17:54:24,737 QQ自动化测试.py[line:36] INFO Send QQ account
+2020-10-14 17:54:25,839 QQ自动化测试.py[line:40] INFO Send password
+2020-10-14 17:54:26,360 QQ自动化测试.py[line:44] INFO Click login
+2020-10-14 17:54:27,263 QQ自动化测试.py[line:48] INFO Click resufe
+2020-10-14 17:54:33,415 QQ自动化测试.py[line:54] INFO Click person to contact
+2020-10-14 17:54:34,326 QQ自动化测试.py[line:58] INFO Click First friend
+2020-10-14 17:54:39,247 QQ自动化测试.py[line:63] INFO Click Send_news
+2020-10-14 17:54:42,341 QQ自动化测试.py[line:70] INFO Send news
+2020-10-14 17:54:42,964 QQ自动化测试.py[line:74] INFO Click send
+2020-10-14 17:54:42,964 QQ自动化测试.py[line:75] INFO The progrom runs successfuly
+2020-10-14 17:59:06,296 QQ自动化测试.py[line:19] INFO 
+2020-10-14 17:59:06,298 QQ自动化测试.py[line:20] INFO App started successfully
+2020-10-14 17:59:07,092 QQ自动化测试.py[line:28] INFO Click agreement
+2020-10-14 17:59:25,421 QQ自动化测试.py[line:32] INFO Click login
+2020-10-14 17:59:26,581 QQ自动化测试.py[line:36] INFO Send QQ account
+2020-10-14 17:59:27,692 QQ自动化测试.py[line:40] INFO Send password
+2020-10-14 17:59:28,209 QQ自动化测试.py[line:44] INFO Click login
+2020-10-14 17:59:29,094 QQ自动化测试.py[line:48] INFO Click resufe
+2020-10-14 17:59:34,976 QQ自动化测试.py[line:54] INFO Click person to contact
+2020-10-14 17:59:35,926 QQ自动化测试.py[line:58] INFO Click First friend
+2020-10-14 17:59:40,925 QQ自动化测试.py[line:63] INFO Click Send_news
+2020-10-14 17:59:46,735 QQ自动化测试.py[line:70] INFO Send news
+2020-10-14 17:59:47,662 QQ自动化测试.py[line:74] INFO Click send
+2020-10-14 17:59:47,662 QQ自动化测试.py[line:75] INFO The progrom runs successfuly
+2020-10-14 18:02:52,041 QQ_automation.py[line:19] INFO 
+2020-10-14 18:02:52,042 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 18:02:52,872 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 18:03:10,991 QQ_automation.py[line:32] INFO Click login
+2020-10-14 18:03:12,139 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-14 18:03:13,248 QQ_automation.py[line:40] INFO Send password
+2020-10-14 18:03:13,828 QQ_automation.py[line:44] INFO Click login
+2020-10-14 18:03:14,711 QQ_automation.py[line:48] INFO Click resufe
+2020-10-14 18:06:01,999 Yao_qian_car_2.py[line:23] INFO 
+2020-10-14 18:06:02,000 Yao_qian_car_2.py[line:24] INFO App started successfully
+2020-10-14 18:06:02,739 Yao_qian_car_2.py[line:32] INFO Click agreement
+2020-10-14 18:06:04,477 Yao_qian_car_2.py[line:36] INFO Click mine
+2020-10-14 18:06:05,677 Yao_qian_car_2.py[line:40] INFO Click go login
+2020-10-14 18:06:07,559 Yao_qian_car_2.py[line:44] INFO Send phone number
+2020-10-14 18:06:09,022 Yao_qian_car_2.py[line:48] INFO Send password
+2020-10-14 18:06:09,550 Yao_qian_car_2.py[line:52] INFO Click login
+2020-10-14 18:06:11,044 Yao_qian_car_2.py[line:58] INFO Click advertisement
+2020-10-14 18:06:13,074 Yao_qian_car_2.py[line:64] INFO Click homepage
+2020-10-14 18:06:14,489 Yao_qian_car_2.py[line:68] INFO Click introdution to the platform
+2020-10-14 18:06:17,724 Yao_qian_car_2.py[line:76] INFO Slide 1
+2020-10-14 18:06:20,021 Yao_qian_car_2.py[line:76] INFO Slide 2
+2020-10-14 18:06:22,244 Yao_qian_car_2.py[line:76] INFO Slide 3
+2020-10-14 18:06:22,244 Yao_qian_car_2.py[line:77] INFO The progrom runs successfuly
+2020-10-14 18:33:32,825 Yao_qian_car_2.py[line:23] INFO 
+2020-10-14 18:33:32,826 Yao_qian_car_2.py[line:24] INFO App started successfully
+2020-10-14 18:33:33,546 Yao_qian_car_2.py[line:32] INFO Click agreement
+2020-10-14 18:33:35,018 Yao_qian_car_2.py[line:36] INFO Click mine
+2020-10-14 18:33:36,171 Yao_qian_car_2.py[line:40] INFO Click go login
+2020-10-14 18:33:38,030 Yao_qian_car_2.py[line:44] INFO Send phone number
+2020-10-14 18:33:39,590 Yao_qian_car_2.py[line:48] INFO Send password
+2020-10-14 18:33:40,118 Yao_qian_car_2.py[line:52] INFO Click login
+2020-10-14 18:33:41,538 Yao_qian_car_2.py[line:58] INFO Click advertisement
+2020-10-14 18:33:43,428 Yao_qian_car_2.py[line:64] INFO Click homepage
+2020-10-14 18:33:44,830 Yao_qian_car_2.py[line:68] INFO Click introdution to the platform
+2020-10-14 18:33:48,118 Yao_qian_car_2.py[line:76] INFO Slide 1
+2020-10-14 18:33:50,341 Yao_qian_car_2.py[line:76] INFO Slide 2
+2020-10-14 18:33:52,688 Yao_qian_car_2.py[line:76] INFO Slide 3
+2020-10-14 18:33:52,688 Yao_qian_car_2.py[line:77] INFO The progrom runs successfuly
+2020-10-14 19:01:22,556 QQ_automation.py[line:19] INFO 
+2020-10-14 19:01:22,556 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 19:01:23,400 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 19:01:41,687 QQ_automation.py[line:32] INFO Click login
+2020-10-14 19:01:42,845 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-14 19:01:43,953 QQ_automation.py[line:40] INFO Send password
+2020-10-14 19:01:44,480 QQ_automation.py[line:44] INFO Click login
+2020-10-14 19:01:45,164 QQ_automation.py[line:48] INFO Click resufe
+2020-10-14 19:01:47,320 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-14 19:01:48,115 QQ_automation.py[line:58] INFO Click First friend
+2020-10-14 19:02:39,034 QQ_automation.py[line:19] INFO 
+2020-10-14 19:02:39,034 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 19:02:39,871 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 19:03:14,653 QQ_automation.py[line:19] INFO 
+2020-10-14 19:03:14,654 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 19:03:15,513 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 19:03:33,422 QQ_automation.py[line:32] INFO Click login
+2020-10-14 19:03:34,579 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-14 19:03:35,211 QQ_automation.py[line:40] INFO Send password
+2020-10-14 19:03:35,813 QQ_automation.py[line:44] INFO Click login
+2020-10-14 19:03:36,709 QQ_automation.py[line:48] INFO Click resufe
+2020-10-14 19:04:38,065 QQ_automation.py[line:19] INFO 
+2020-10-14 19:04:38,066 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 19:04:38,918 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 19:04:56,938 QQ_automation.py[line:32] INFO Click login
+2020-10-14 19:04:58,094 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-14 19:04:59,203 QQ_automation.py[line:40] INFO Send password
+2020-10-14 19:04:59,732 QQ_automation.py[line:44] INFO Click login
+2020-10-14 19:05:00,444 QQ_automation.py[line:48] INFO Click resufe
+2020-10-14 19:06:21,393 QQ_automation.py[line:19] INFO 
+2020-10-14 19:06:21,394 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 19:06:22,825 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 19:08:51,538 Yao_qian_car_2.py[line:23] INFO 
+2020-10-14 19:08:51,538 Yao_qian_car_2.py[line:24] INFO App started successfully
+2020-10-14 19:08:52,282 Yao_qian_car_2.py[line:32] INFO Click agreement
+2020-10-14 19:08:54,054 Yao_qian_car_2.py[line:36] INFO Click mine
+2020-10-14 19:08:55,324 Yao_qian_car_2.py[line:40] INFO Click go login
+2020-10-14 19:08:57,961 Yao_qian_car_2.py[line:44] INFO Send phone number
+2020-10-14 19:08:59,071 Yao_qian_car_2.py[line:48] INFO Send password
+2020-10-14 19:08:59,602 Yao_qian_car_2.py[line:52] INFO Click login
+2020-10-14 19:09:00,849 Yao_qian_car_2.py[line:58] INFO Click advertisement
+2020-10-14 19:09:02,822 Yao_qian_car_2.py[line:64] INFO Click homepage
+2020-10-14 19:09:04,220 Yao_qian_car_2.py[line:68] INFO Click introdution to the platform
+2020-10-14 19:09:07,506 Yao_qian_car_2.py[line:76] INFO Slide 1
+2020-10-14 19:09:09,757 Yao_qian_car_2.py[line:76] INFO Slide 2
+2020-10-14 19:09:11,976 Yao_qian_car_2.py[line:76] INFO Slide 3
+2020-10-14 19:09:11,976 Yao_qian_car_2.py[line:77] INFO The progrom runs successfuly
+2020-10-14 20:31:29,239 QQ_automation.py[line:19] INFO 
+2020-10-14 20:31:29,240 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 20:31:30,057 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 20:31:47,684 QQ_automation.py[line:32] INFO Click login
+2020-10-14 20:31:48,824 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-14 20:31:49,935 QQ_automation.py[line:40] INFO Send password
+2020-10-14 20:31:50,459 QQ_automation.py[line:44] INFO Click login
+2020-10-14 20:31:51,155 QQ_automation.py[line:48] INFO Click resufe
+2020-10-14 20:31:55,026 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-14 20:31:58,846 QQ_automation.py[line:60] INFO Click First friend
+2020-10-14 20:32:01,981 QQ_automation.py[line:67] INFO Click Send_news
+2020-10-14 20:32:10,041 QQ_automation.py[line:74] INFO Send news
+2020-10-14 20:32:10,823 QQ_automation.py[line:78] INFO Click send
+2020-10-14 20:32:10,823 QQ_automation.py[line:79] INFO The progrom runs successfuly
+2020-10-14 20:33:55,187 QQ_automation.py[line:19] INFO 
+2020-10-14 20:33:55,187 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 20:33:56,022 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 20:34:13,805 QQ_automation.py[line:32] INFO Click login
+2020-10-14 20:34:14,938 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-14 20:34:16,047 QQ_automation.py[line:40] INFO Send password
+2020-10-14 20:34:16,572 QQ_automation.py[line:44] INFO Click login
+2020-10-14 20:34:17,262 QQ_automation.py[line:48] INFO Click resufe
+2020-10-14 20:34:21,084 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-14 20:34:24,879 QQ_automation.py[line:60] INFO Click First friend
+2020-10-14 20:35:15,994 QQ_automation.py[line:19] INFO 
+2020-10-14 20:35:15,994 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 20:35:16,845 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 20:35:55,569 QQ_automation.py[line:19] INFO 
+2020-10-14 20:35:55,569 QQ_automation.py[line:20] INFO App started successfully
+2020-10-14 20:35:56,402 QQ_automation.py[line:28] INFO Click agreement
+2020-10-14 20:36:13,989 QQ_automation.py[line:32] INFO Click login
+2020-10-14 20:36:15,128 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-14 20:36:16,243 QQ_automation.py[line:40] INFO Send password
+2020-10-14 20:36:16,779 QQ_automation.py[line:44] INFO Click login
+2020-10-14 20:36:17,843 QQ_automation.py[line:48] INFO Click resufe
+2020-10-14 20:36:21,686 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-14 20:36:25,572 QQ_automation.py[line:60] INFO Click First friend
+2020-10-14 20:36:29,560 QQ_automation.py[line:67] INFO Click Send_news
+2020-10-14 20:36:35,109 QQ_automation.py[line:74] INFO Send news
+2020-10-14 20:36:35,616 QQ_automation.py[line:78] INFO Click send
+2020-10-14 20:36:35,616 QQ_automation.py[line:79] INFO The progrom runs successfuly
+2020-10-14 20:37:50,948 Yao_qian_car_2.py[line:23] INFO 
+2020-10-14 20:37:50,948 Yao_qian_car_2.py[line:24] INFO App started successfully
+2020-10-14 20:37:52,764 Yao_qian_car_2.py[line:32] INFO Click agreement
+2020-10-14 20:37:53,240 Yao_qian_car_2.py[line:36] INFO Click mine
+2020-10-14 20:37:54,563 Yao_qian_car_2.py[line:40] INFO Click go login
+2020-10-14 20:37:56,715 Yao_qian_car_2.py[line:44] INFO Send phone number
+2020-10-14 20:37:58,187 Yao_qian_car_2.py[line:48] INFO Send password
+2020-10-14 20:37:58,711 Yao_qian_car_2.py[line:52] INFO Click login
+2020-10-14 20:38:00,313 Yao_qian_car_2.py[line:58] INFO Click advertisement
+2020-10-14 20:38:02,219 Yao_qian_car_2.py[line:64] INFO Click homepage
+2020-10-14 20:38:03,627 Yao_qian_car_2.py[line:68] INFO Click introdution to the platform
+2020-10-14 20:38:06,938 Yao_qian_car_2.py[line:76] INFO Slide 1
+2020-10-14 20:38:09,169 Yao_qian_car_2.py[line:76] INFO Slide 2
+2020-10-14 20:38:11,386 Yao_qian_car_2.py[line:76] INFO Slide 3
+2020-10-14 20:38:11,386 Yao_qian_car_2.py[line:77] INFO The progrom runs successfuly
+2020-10-14 20:41:39,476 Yao_qian_car_2.py[line:23] INFO 
+2020-10-14 20:41:39,476 Yao_qian_car_2.py[line:24] INFO App started successfully
+2020-10-14 20:41:41,039 Yao_qian_car_2.py[line:32] INFO Click agreement
+2020-10-14 20:41:41,701 Yao_qian_car_2.py[line:36] INFO Click mine
+2020-10-14 20:41:42,974 Yao_qian_car_2.py[line:40] INFO Click go login
+2020-10-14 20:41:45,058 Yao_qian_car_2.py[line:44] INFO Send phone number
+2020-10-14 20:41:46,570 Yao_qian_car_2.py[line:48] INFO Send password
+2020-10-14 20:41:47,095 Yao_qian_car_2.py[line:52] INFO Click login
+2020-10-14 20:41:48,538 Yao_qian_car_2.py[line:58] INFO Click advertisement
+2020-10-14 20:41:50,451 Yao_qian_car_2.py[line:64] INFO Click homepage
+2020-10-14 20:41:51,903 Yao_qian_car_2.py[line:68] INFO Click introdution to the platform
+2020-10-14 20:41:55,402 Yao_qian_car_2.py[line:76] INFO Slide 1
+2020-10-14 20:41:57,637 Yao_qian_car_2.py[line:76] INFO Slide 2
+2020-10-14 20:42:00,199 Yao_qian_car_2.py[line:76] INFO Slide 3
+2020-10-14 20:42:00,199 Yao_qian_car_2.py[line:77] INFO The progrom runs successfuly
+2020-10-14 21:10:08,319 Yao_qian_car_2.py[line:23] INFO 
+2020-10-14 21:10:08,320 Yao_qian_car_2.py[line:24] INFO App started successfully
+2020-10-14 21:10:09,980 Yao_qian_car_2.py[line:32] INFO Click agreement
+2020-10-14 21:10:10,641 Yao_qian_car_2.py[line:36] INFO Click mine
+2020-10-14 21:10:11,803 Yao_qian_car_2.py[line:40] INFO Click go login
+2020-10-14 21:10:14,413 Yao_qian_car_2.py[line:44] INFO Send phone number
+2020-10-14 21:10:15,734 Yao_qian_car_2.py[line:48] INFO Send password
+2020-10-14 21:10:16,256 Yao_qian_car_2.py[line:52] INFO Click login
+2020-10-14 21:10:20,866 Yao_qian_car_2.py[line:58] INFO Click advertisement
+2020-10-14 21:10:22,943 Yao_qian_car_2.py[line:64] INFO Click homepage
+2020-10-14 21:10:24,961 Yao_qian_car_2.py[line:68] INFO Click introdution to the platform
+2020-10-14 21:10:29,808 Yao_qian_car_2.py[line:76] INFO Slide 1
+2020-10-14 21:10:32,293 Yao_qian_car_2.py[line:76] INFO Slide 2
+2020-10-14 21:10:35,335 Yao_qian_car_2.py[line:76] INFO Slide 3
+2020-10-14 21:10:35,335 Yao_qian_car_2.py[line:77] INFO The progrom runs successfuly
+2020-10-15 16:24:23,926 QQ_automation.py[line:19] INFO 
+2020-10-15 16:24:23,926 QQ_automation.py[line:20] INFO App started successfully
+2020-10-15 16:24:24,845 QQ_automation.py[line:28] INFO Click agreement
+2020-10-15 16:24:43,244 QQ_automation.py[line:32] INFO Click login
+2020-10-15 16:24:44,390 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-15 16:24:45,503 QQ_automation.py[line:40] INFO Send password
+2020-10-15 16:24:46,037 QQ_automation.py[line:44] INFO Click login
+2020-10-15 16:24:46,916 QQ_automation.py[line:48] INFO Click resufe
+2020-10-15 16:24:50,750 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-15 16:24:54,576 QQ_automation.py[line:60] INFO Click First friend
+2020-10-15 16:24:58,031 QQ_automation.py[line:67] INFO Click Send_news
+2020-10-15 16:25:10,277 QQ_automation.py[line:74] INFO Send news
+2020-10-15 16:25:10,818 QQ_automation.py[line:78] INFO Click send
+2020-10-15 16:25:10,818 QQ_automation.py[line:79] INFO The progrom runs successfuly
+2020-10-15 16:26:16,130 QQ_automation.py[line:19] INFO 
+2020-10-15 16:26:16,130 QQ_automation.py[line:20] INFO App started successfully
+2020-10-15 16:26:16,915 QQ_automation.py[line:28] INFO Click agreement
+2020-10-15 16:26:34,601 QQ_automation.py[line:32] INFO Click login
+2020-10-15 16:26:35,735 QQ_automation.py[line:36] INFO Send QQ account
+2020-10-15 16:26:36,853 QQ_automation.py[line:40] INFO Send password
+2020-10-15 16:26:37,401 QQ_automation.py[line:44] INFO Click login
+2020-10-15 16:26:38,288 QQ_automation.py[line:48] INFO Click resufe
+2020-10-15 16:26:42,125 QQ_automation.py[line:54] INFO Click person to contact
+2020-10-15 16:26:46,040 QQ_automation.py[line:60] INFO Click First friend
+2020-10-15 16:26:49,125 QQ_automation.py[line:67] INFO Click Send_news
+2020-10-15 16:26:53,352 QQ_automation.py[line:74] INFO Send news
+2020-10-15 16:26:54,110 QQ_automation.py[line:78] INFO Click send
+2020-10-15 16:26:54,110 QQ_automation.py[line:79] INFO The progrom runs successfuly
+2020-10-15 16:27:39,315 Yao_qian_car_2.py[line:23] INFO 
+2020-10-15 16:27:39,315 Yao_qian_car_2.py[line:24] INFO App started successfully
+2020-10-15 16:27:39,969 Yao_qian_car_2.py[line:32] INFO Click agreement
+2020-10-15 16:27:41,367 Yao_qian_car_2.py[line:36] INFO Click mine
+2020-10-15 16:27:43,118 Yao_qian_car_2.py[line:40] INFO Click go login
+2020-10-15 16:27:45,431 Yao_qian_car_2.py[line:44] INFO Send phone number
+2020-10-15 16:27:47,080 Yao_qian_car_2.py[line:48] INFO Send password
+2020-10-15 16:27:47,621 Yao_qian_car_2.py[line:52] INFO Click login
+2020-10-15 16:27:48,778 Yao_qian_car_2.py[line:58] INFO Click advertisement
+2020-10-15 16:27:50,905 Yao_qian_car_2.py[line:64] INFO Click homepage
+2020-10-15 16:27:53,660 Yao_qian_car_2.py[line:68] INFO Click introdution to the platform
